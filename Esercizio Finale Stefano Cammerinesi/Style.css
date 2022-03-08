@@ -1,0 +1,55 @@
+body{
+  background-image: url('imm/background.jpg');
+  background-size: cover;
+  width: 1250px;
+  height: 800;
+  margin: auto;
+}
+header{
+text-align:center;
+color: #00FF00;
+}
+img{
+width: 20%
+}
+strong/*Nome Monopattino*/{
+  font-size: 23px;
+  font-weight:500;
+  display: inline-block;
+  margin-top: 20px;
+
+}
+nav/*Barra Input*/{
+  background-color: #00FF00;
+  padding: 10px;
+  text-align: center;
+}
+div{
+  color: white;
+  font-family:sans-serif;
+  /*Font standard che piu ci si avvicina*/
+}
+.box1/*Barra Carica Monopattino n°1*/{
+  background-color:#ffcc66;
+  border-radius: 6px;
+  height: 30px;
+  width: 300px;
+}
+.box2/*Barra Carica Monopattino n°2*/{
+  background-color:#33cc33;
+  border-radius: 6px;
+  height: 30px;
+  width: 550px;
+}
+.box3/*Barra Carica Monopattino n°3*/{
+  background-color:#ff5050;
+  border-radius: 6px;
+  height: 30px;
+  width: 150px;
+}
+.box4/*Background Trasparente*/{
+  background-color:rgba(56,56,56,0.6);
+  border-radius: 15px;
+  padding: 100px;
+  margin-top: 50px;
+}
